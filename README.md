@@ -6,9 +6,9 @@
 Remember to edit these sections in Dockerfile before you run docker-compose.
 
 ```
-ENV SERVER_NAME "your_server_name"
-ENV RCON_PW "your_rcon_pass"
-ENV START_MAP "de_dust2"
+ENV SERVER_NAME "your_server_name" // server name - you can change it in config as well
+ENV RCON_PW "your_rcon_pass" // RCON password
+ENV START_MAP "de_dust2" // this will start "de_dust2" as first map
 ```
 
 There are two optional files included in this repo:
