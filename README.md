@@ -1,7 +1,8 @@
 # Counter Strike 1.6 dedicated server Docker
 ### You can use this repo to quickly deploy Counter Strike 1.6 server using just *docker-compose*
 
-####Before start
+#### Before start
+
 Remember to edit these sections in Dockerfile before you run docker-compose.
 
 ```
